@@ -1,1 +1,1 @@
-# gn98-1665780.git-hub.io
+# gn98-1665780.github.io
